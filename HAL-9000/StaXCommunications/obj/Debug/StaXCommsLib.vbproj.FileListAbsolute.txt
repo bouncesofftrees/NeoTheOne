@@ -1,0 +1,24 @@
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.dll
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.pdb
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.xml
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.Resources.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.vbproj.GenerateResource.Cache
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.dll
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.xml
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\bin\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.Resources.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.vbproj.GenerateResource.Cache
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\StaXCommunications\obj\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\bin\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\bin\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\bin\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\obj\Debug\StaXCommsLib.Resources.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\obj\Debug\StaXCommsLib.vbproj.GenerateResource.Cache
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\obj\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\obj\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\StaXCommunications\obj\Debug\StaXCommsLib.pdb

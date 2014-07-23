@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParticipantTypeDef TypeName="Christmas Door Controller" InterfaceVersion="0.3169.6" Description="Door control application" xmlns="http://www.tecenginc.com/StaX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ValidValueGroup Name="DoorStatus" Description="Process Status">
+		<ValidValue DataValue="0" DisplayValue="Not Running"/>
+		<ValidValue DataValue="1" DisplayValue="Running"/>
+		<ValidValue DataValue="2" DisplayValue="Failed to Start"/>
+	</ValidValueGroup>
+	<ValidValueGroup Name="Result" Description="Result">
+		<ValidValue DataValue="Success" DisplayValue="Success"/>
+		<ValidValue DataValue="Failure" DisplayValue="Failure"/>
+		<ValidValue DataValue="Unknown" DisplayValue="Unknown"/>
+	</ValidValueGroup>
+	<!---->
+	<!-- Properties -->
+	<!---->
+	<!--  Available Songs -->
+	<PropertyDefGrp PropertyID="100" Name="Available Songs" IsRepeating="false">
+		<PropertyDefGrp PropertyID="10001" Name="Song Group" IsRepeating="true">
+			<PropertyDef PropertyID="1000101" Name="Title" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<PropertyDef PropertyID="1000102" Name="Artist" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<PropertyDef PropertyID="1000103" Name="Album" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<!-- We may want a Song Title - Artist - Album property to be used in for the command to play a song -->
+			<PropertyDef PropertyID="1000104" Name="Number of Times Played" IsRepeating="false">
+				<StarshipDataType>xsd:unsignedInt</StarshipDataType>
+			</PropertyDef>
+		</PropertyDefGrp>
+	</PropertyDefGrp>
+	<!---->
+	<!-- Current Playlist -->
+	<PropertyDefGrp PropertyID="101" Name="Current Playlist" IsRepeating="false">
+		<PropertyDefGrp PropertyID="10101" Name="Song Group" IsRepeating="true">
+			<PropertyDef PropertyID="1010101" Name="Title" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<PropertyDef PropertyID="1010102" Name="Artist" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<PropertyDef PropertyID="1010103" Name="Album" IsRepeating="false">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+			<!-- We may want a Song Title - Artist - Album property to be used in for the command to play a song -->
+			<PropertyDef PropertyID="1010104" Name="Number of Times Played" IsRepeating="false">
+				<StarshipDataType>xsd:unsignedInt</StarshipDataType>
+			</PropertyDef>
+		</PropertyDefGrp>
+		<!---->
+		<!-- Find Results -->
+		<PropertyDefGrp PropertyID="103" Name="Find Results" IsRepeating="false">
+			<PropertyDef PropertyID="10301" Name="File Name" IsRepeating="true">
+				<StarshipDataType>xsd:string</StarshipDataType>
+			</PropertyDef>
+		</PropertyDefGrp>
+	</PropertyDefGrp>
+	<!---->
+	<!-- Current View -->
+	<PropertyDef Name="Current View" PropertyID="104" Description="A path to the latest webcam capture">
+		<!-- TODO:  What is the data type to get Blueprint to show this as a hyperlink? -->
+		<StarshipDataType>xsd:string</StarshipDataType>
+	</PropertyDef>
+	<!---->
+	<!-- Door Status -->
+	<PropertyDef Name="Door Status" PropertyID="105" Description="The current status of the door">
+		<StarshipDataType>xsd:string</StarshipDataType>
+		<PropertyValidationType>
+			<ValidValueGroupName>Door Status</ValidValueGroupName>
+		</PropertyValidationType>
+	</PropertyDef>
+	<!---->
+	<ParticipantPosition/>
+	<!---->
+	<!---->
+	<!-- Commands -->
+	<!---->
+	<!-- Status -->
+	<CommandDef Name="Get The 411" Description="Get the current status" StarshipCommandType="GetState">
+	</CommandDef>
+	<!---->
+	<!-- Hey DJ Play Me A Song-->
+	<CommandDef Name="Hey DJ, Play Me A Song" Description="Play a song" StarshipCommandType="ObjectSpecific">
+		<CmdParamDef Name="Application" Description="Full path and application name">
+			<StarshipDataType>xsd:string</StarshipDataType>
+			<CmdParamValidationType>
+				<ValidatingPropertyID>1000101</ValidatingPropertyID>
+			</CmdParamValidationType>
+		</CmdParamDef>
+		<CmdParamDef Name="Arguments" Description="Argument list for application">
+			<StarshipDataType>xsd:string</StarshipDataType>
+		</CmdParamDef>
+	</CommandDef>
+	<!---->
+	<!--- The Track Is Wack -->
+	<CommandDef Name="The Track Is Wack - Skip It!" Description="Go to next song in the playlist" StarshipCommandType="ObjectSpecific">
+	</CommandDef>
+	<!---->
+	<!-- Clear Playlist-->
+	<CommandDef Name="Clear Playlist" Description="Remove all songs from the playlist">
+	</CommandDef>
+	<!---->
+	<!--Red Lights On-->
+	<CommandDef Name="Red Lights On" Description="Turns on red lights">
+	</CommandDef>
+	<!---->
+	<!--Red Lights Off-->
+	<CommandDef Name="Red Lights Off" Description="Turns off red lights">
+	</CommandDef>
+	<!---->
+	<!--Green Lights Off-->
+	<CommandDef Name="Green Lights Off" Description="Turns off green lights">
+	</CommandDef>
+	<!---->
+	<!--Green Lights On-->
+	<CommandDef Name="Green Lights On" Description="Turns on green lights">
+	</CommandDef>
+	<!---->
+	<!--Blue Lights On-->
+	<CommandDef Name="Blue Lights On" Description="Turns on blue lights">
+	</CommandDef>
+	<!---->
+	<!--Blue Lights Off-->
+	<CommandDef Name="Blue Lights Off" Description="Turns off blue lights">
+	</CommandDef>
+	<!---->
+	<!--Power Supply Off-->
+	<CommandDef Name="Power Supply Off" Description="Turns off power supply">
+	</CommandDef>
+	<!---->
+	<!--Power Supply On-->
+	<CommandDef Name="Power Supply On" Description="Turns on power supply">
+	</CommandDef>
+	<!---->
+	<!-- Set Position-->
+	<CommandDef Name="Set Position" Description="Set the position that door will report back">
+		<CmdParamDef Name="Latitude" Description="Latitude Decimal Degrees">
+			<StarshipDataType>xsd:double</StarshipDataType>
+			<CmdParamValidationType>
+				<ValidatingPropertyID>-103</ValidatingPropertyID>
+			</CmdParamValidationType>
+		</CmdParamDef>
+		<CmdParamDef Name="Longitude" Description="Longitude Decimal Degrees">
+			<StarshipDataType>xsd:double</StarshipDataType>
+			<CmdParamValidationType>
+				<ValidatingPropertyID>-104</ValidatingPropertyID>
+			</CmdParamValidationType>
+		</CmdParamDef>
+		<CmdParamDef Name="Altitude" Description="Altitude in meters">
+			<StarshipDataType>xsd:double</StarshipDataType>
+			<CmdParamValidationType>
+				<ValidatingPropertyID>-101</ValidatingPropertyID>
+			</CmdParamValidationType>
+		</CmdParamDef>
+		<CmdParamDef Name="Orientation" Description="Orientation in meters">
+			<StarshipDataType>xsd:double</StarshipDataType>
+		</CmdParamDef>
+	</CommandDef>
+	<!---->
+</ParticipantTypeDef>

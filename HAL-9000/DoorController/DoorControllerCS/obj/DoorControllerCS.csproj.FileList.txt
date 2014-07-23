@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DoorControllerCS.frmMain.resources
+obj\Debug\DoorControllerCS.Properties.Resources.resources
+obj\Debug\DoorControllerCS.csproj.GenerateResource.Cache
+bin\Debug\DoorControllerCS.exe
+bin\Debug\DoorControllerCS.pdb
+obj\Debug\DoorControllerCS.exe
+obj\Debug\DoorControllerCS.pdb
+bin\Debug\StaXCommsLib.dll
+bin\Debug\StaXCommsLib.pdb
+bin\Debug\StaXCommsLib.xml

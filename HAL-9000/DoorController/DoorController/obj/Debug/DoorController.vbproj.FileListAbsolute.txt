@@ -1,0 +1,68 @@
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.exe
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.pdb
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.xml
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.dll
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.pdb
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.xml
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbprojResolveAssemblyReference.cache
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.ResolveComReference.cache
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_Config.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_main.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmControl.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmMsgTraffic.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.Resources.resources
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.GenerateResource.Cache
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.exe
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.xml
+C:\Users\millerc\Documents\Artemis7 Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.pdb
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.ResolveComReference.cache
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.exe
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.xml
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.pdb
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbprojResolveAssemblyReference.cache
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_Config.resources
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_main.resources
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmControl.resources
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmMsgTraffic.resources
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.Resources.resources
+C:\Users\Curtis\SkyDrive\Src\Hal-9000\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.GenerateResource.Cache
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.exe
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.xml
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.pdb
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbprojResolveAssemblyReference.cache
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_Config.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.form_main.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmControl.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.frmMsgTraffic.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.Resources.resources
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.GenerateResource.Cache
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.exe
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.pdb
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\DoorController.xml
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\bin\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\Curtis\Documents\Visual Studio Projects\Hal-9000-VSS\DoorController\DoorController\obj\Debug\DoorController.vbproj.ResolveComReference.cache
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.vbproj.ResolveComReference.cache
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.exe
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.xml
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.pdb
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\DoorController.exe
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\DoorController.pdb
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\DoorController.xml
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\StaXCommsLib.dll
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\StaXCommsLib.pdb
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\StaXCommsLib.xml
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\bin\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.vbprojResolveAssemblyReference.cache
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.form_Config.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.form_main.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.frmControl.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.frmMsgTraffic.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.Resources.resources
+C:\Users\Curtis\Documents\GitHub\NeoTheOne\HAL-9000\DoorController\DoorController\obj\Debug\DoorController.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ahsdk</id>
+    <version>1.0.0</version>
+    <authors>Active Home</authors>
+    <owners>Active Home</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>the active home sdk</description>
+    <copyright>Copyright 2012</copyright>
+  </metadata>
+</package>

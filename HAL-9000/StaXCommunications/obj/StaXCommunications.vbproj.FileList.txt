@@ -1,0 +1,9 @@
+bin\Debug\StaXCommunications.dll
+bin\Debug\StaXCommunications.pdb
+bin\Debug\StaXCommunications.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StaXCommunications.Resources.resources
+obj\Debug\StaXCommunications.vbproj.GenerateResource.Cache
+obj\Debug\StaXCommunications.dll
+obj\Debug\StaXCommunications.xml
+obj\Debug\StaXCommunications.pdb
